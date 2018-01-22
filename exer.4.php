@@ -16,6 +16,6 @@
  $y ->nome = "Jonas Hirata";
  $y ->codigo = "Codigo 2";
 
- echo "Nome: $x->nome" . PHP.EOL;
- echo "codigo: $x->codigo" . PHP.EOL;
+ echo "Nome: $y->nome" . PHP.EOL;
+ echo "codigo: $y->codigo" . PHP.EOL;
 ?>
